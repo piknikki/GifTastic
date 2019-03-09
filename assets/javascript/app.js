@@ -29,8 +29,8 @@ function displayGifInfo() {
             showImage.attr("data-state", "still"); // set attribute data state to still
             showImage.attr("data-still", staticSrc); // set attr data still to each item's still url
             showImage.attr("data-animate", defaultAnimatedSrc); // set attr data animate to each item's animated url
-            gifDiv.append(p); // add p to the view
             gifDiv.append(showImage); // add src and attr info to the view
+            gifDiv.append(p); // add p to the view
             gifInfo.prepend(gifDiv);
 
         }
@@ -57,8 +57,6 @@ function btnMaker() {
         topicBtn.text(topics[i]);
         $("#buttons-view").append(topicBtn);
     }
-
-
 }
 
 // call render func

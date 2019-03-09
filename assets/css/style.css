@@ -1,4 +1,3 @@
-
 button,
 div,
 form,
@@ -8,7 +7,7 @@ input {
 
 .gif {
     font-size: 1.5em;
-    background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
+    background-image: linear-gradient(90deg, #f3f8ff 0%, #deecff 49%, #c6cfff 80%, #e8d3ff 100%);
     border-radius: 5px;
     text-decoration: none;
     color: black;
