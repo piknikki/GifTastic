@@ -1,4 +1,14 @@
 # GifTastic
-Gifphy API project
 
-This project begins with a page of buttons which populate gifs from the website Giphy.  You can add topics to be searched, and see the images when you click on the button of that topic.  In addition, you can pause or play the gifs (so they're not all playing automatically and making you crazy over-stimulated).
+# Overview
+The user clicks on topic buttons, to see gifs from Giphy.com related to that topic. The user can also add a topic of their choosing, and see those gifs. Each gif can be paused and played by clicking on the image. A rating is included for each gif (G, PG, etc.).
+
+# Technologies Used
+* HTML
+* CSS Bootstrap
+* Javascript
+* jQuery
+* AJAX for API GET requests
+
+# Link to live app
+http://www.purplepants.io/GifTastic/
