@@ -11,4 +11,4 @@ The user clicks on topic buttons, to see gifs from Giphy.com related to that top
 * AJAX for API GET requests
 
 # Link to live app
-http://www.purplepants.io/GifTastic/
+http://www.nikkipetersen.dev/GifTastic/
